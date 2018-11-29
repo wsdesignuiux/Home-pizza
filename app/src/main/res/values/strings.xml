@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Home_pizza</string>
+
+
+
+    <string name="Rs">\u20B9</string>
+    <string name="customize_add">Customize &amp; Add</string>
+</resources>
